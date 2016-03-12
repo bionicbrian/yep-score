@@ -1,1 +1,7 @@
-node_modules
+node_modules/*
+
+!node_modules/spak
+!node_modules/spak-di
+!node_modules/@yuzu
+!node_modules/storeit-value
+
